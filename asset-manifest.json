@@ -1,23 +1,17 @@
 {
   "files": {
-    "main.css": "/Komuya_proyecto/static/css/main.a617e044.chunk.css",
-    "main.js": "/Komuya_proyecto/static/js/main.5223e475.chunk.js",
-    "main.js.map": "/Komuya_proyecto/static/js/main.5223e475.chunk.js.map",
-    "runtime-main.js": "/Komuya_proyecto/static/js/runtime-main.4ac48bcc.js",
-    "runtime-main.js.map": "/Komuya_proyecto/static/js/runtime-main.4ac48bcc.js.map",
-    "static/js/2.1927fb9d.chunk.js": "/Komuya_proyecto/static/js/2.1927fb9d.chunk.js",
-    "static/js/2.1927fb9d.chunk.js.map": "/Komuya_proyecto/static/js/2.1927fb9d.chunk.js.map",
-    "static/js/3.e896c122.chunk.js": "/Komuya_proyecto/static/js/3.e896c122.chunk.js",
-    "static/js/3.e896c122.chunk.js.map": "/Komuya_proyecto/static/js/3.e896c122.chunk.js.map",
+    "main.js": "/Komuya_proyecto/static/js/main.7e1aba2b.chunk.js",
+    "main.js.map": "/Komuya_proyecto/static/js/main.7e1aba2b.chunk.js.map",
+    "runtime-main.js": "/Komuya_proyecto/static/js/runtime-main.269512c3.js",
+    "runtime-main.js.map": "/Komuya_proyecto/static/js/runtime-main.269512c3.js.map",
+    "static/js/2.54c2b46a.chunk.js": "/Komuya_proyecto/static/js/2.54c2b46a.chunk.js",
+    "static/js/2.54c2b46a.chunk.js.map": "/Komuya_proyecto/static/js/2.54c2b46a.chunk.js.map",
     "index.html": "/Komuya_proyecto/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/Komuya_proyecto/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.1927fb9d.chunk.js.LICENSE.txt": "/Komuya_proyecto/static/js/2.1927fb9d.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/Komuya_proyecto/static/media/logo.6ce24c58.svg"
+    "static/js/2.54c2b46a.chunk.js.LICENSE.txt": "/Komuya_proyecto/static/js/2.54c2b46a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4ac48bcc.js",
-    "static/js/2.1927fb9d.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.5223e475.chunk.js"
+    "static/js/runtime-main.269512c3.js",
+    "static/js/2.54c2b46a.chunk.js",
+    "static/js/main.7e1aba2b.chunk.js"
   ]
 }
