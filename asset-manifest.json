@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Komuya_proyecto/static/css/main.d9ba3aaf.chunk.css",
+    "main.css": "/Komuya_proyecto/static/css/main.3e90bf70.chunk.css",
     "main.js": "/Komuya_proyecto/static/js/main.452d9bd5.chunk.js",
     "main.js.map": "/Komuya_proyecto/static/js/main.452d9bd5.chunk.js.map",
     "runtime-main.js": "/Komuya_proyecto/static/js/runtime-main.7cb8b5aa.js",
@@ -8,7 +8,7 @@
     "static/js/2.c0f81f84.chunk.js": "/Komuya_proyecto/static/js/2.c0f81f84.chunk.js",
     "static/js/2.c0f81f84.chunk.js.map": "/Komuya_proyecto/static/js/2.c0f81f84.chunk.js.map",
     "index.html": "/Komuya_proyecto/index.html",
-    "static/css/main.d9ba3aaf.chunk.css.map": "/Komuya_proyecto/static/css/main.d9ba3aaf.chunk.css.map",
+    "static/css/main.3e90bf70.chunk.css.map": "/Komuya_proyecto/static/css/main.3e90bf70.chunk.css.map",
     "static/js/2.c0f81f84.chunk.js.LICENSE.txt": "/Komuya_proyecto/static/js/2.c0f81f84.chunk.js.LICENSE.txt",
     "static/media/Jueves.caadbb7a.svg": "/Komuya_proyecto/static/media/Jueves.caadbb7a.svg",
     "static/media/Lunes.5a66d60b.svg": "/Komuya_proyecto/static/media/Lunes.5a66d60b.svg",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.7cb8b5aa.js",
     "static/js/2.c0f81f84.chunk.js",
-    "static/css/main.d9ba3aaf.chunk.css",
+    "static/css/main.3e90bf70.chunk.css",
     "static/js/main.452d9bd5.chunk.js"
   ]
 }
