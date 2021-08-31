@@ -1,31 +1,31 @@
 {
   "files": {
-    "main.css": "/Komuya_proyecto/static/css/main.f28e6fee.chunk.css",
-    "main.js": "/Komuya_proyecto/static/js/main.7bb9eac8.chunk.js",
-    "main.js.map": "/Komuya_proyecto/static/js/main.7bb9eac8.chunk.js.map",
+    "main.css": "/Komuya_proyecto/static/css/main.519f8148.chunk.css",
+    "main.js": "/Komuya_proyecto/static/js/main.d8b0a29f.chunk.js",
+    "main.js.map": "/Komuya_proyecto/static/js/main.d8b0a29f.chunk.js.map",
     "runtime-main.js": "/Komuya_proyecto/static/js/runtime-main.7cb8b5aa.js",
     "runtime-main.js.map": "/Komuya_proyecto/static/js/runtime-main.7cb8b5aa.js.map",
-    "static/js/2.d79c9876.chunk.js": "/Komuya_proyecto/static/js/2.d79c9876.chunk.js",
-    "static/js/2.d79c9876.chunk.js.map": "/Komuya_proyecto/static/js/2.d79c9876.chunk.js.map",
+    "static/js/2.617a990f.chunk.js": "/Komuya_proyecto/static/js/2.617a990f.chunk.js",
+    "static/js/2.617a990f.chunk.js.map": "/Komuya_proyecto/static/js/2.617a990f.chunk.js.map",
     "index.html": "/Komuya_proyecto/index.html",
-    "static/css/main.f28e6fee.chunk.css.map": "/Komuya_proyecto/static/css/main.f28e6fee.chunk.css.map",
-    "static/js/2.d79c9876.chunk.js.LICENSE.txt": "/Komuya_proyecto/static/js/2.d79c9876.chunk.js.LICENSE.txt",
-    "static/media/Jueves.caadbb7a.svg": "/Komuya_proyecto/static/media/Jueves.caadbb7a.svg",
-    "static/media/Lunes.5a66d60b.svg": "/Komuya_proyecto/static/media/Lunes.5a66d60b.svg",
-    "static/media/Martes.40506366.svg": "/Komuya_proyecto/static/media/Martes.40506366.svg",
-    "static/media/Miercoles.ef9d0cd9.svg": "/Komuya_proyecto/static/media/Miercoles.ef9d0cd9.svg",
-    "static/media/Viernes.ea5c911b.svg": "/Komuya_proyecto/static/media/Viernes.ea5c911b.svg",
-    "static/media/casa.c2c04f63.svg": "/Komuya_proyecto/static/media/casa.c2c04f63.svg",
-    "static/media/corazon.5e07d547.svg": "/Komuya_proyecto/static/media/corazon.5e07d547.svg",
+    "static/css/main.519f8148.chunk.css.map": "/Komuya_proyecto/static/css/main.519f8148.chunk.css.map",
+    "static/js/2.617a990f.chunk.js.LICENSE.txt": "/Komuya_proyecto/static/js/2.617a990f.chunk.js.LICENSE.txt",
+    "static/media/Jueves.bedc724b.svg": "/Komuya_proyecto/static/media/Jueves.bedc724b.svg",
+    "static/media/Lunes.80b56fce.svg": "/Komuya_proyecto/static/media/Lunes.80b56fce.svg",
+    "static/media/Martes.db46e1a6.svg": "/Komuya_proyecto/static/media/Martes.db46e1a6.svg",
+    "static/media/Miercoles.8c332169.svg": "/Komuya_proyecto/static/media/Miercoles.8c332169.svg",
+    "static/media/Viernes.4e04f7e1.svg": "/Komuya_proyecto/static/media/Viernes.4e04f7e1.svg",
+    "static/media/casa.d0918937.svg": "/Komuya_proyecto/static/media/casa.d0918937.svg",
+    "static/media/stylesFrases.css": "/Komuya_proyecto/static/media/retosFondo.8c8338d7.png",
+    "static/media/corazon.1e0a6c76.svg": "/Komuya_proyecto/static/media/corazon.1e0a6c76.svg",
     "static/media/logo.32d83d02.png": "/Komuya_proyecto/static/media/logo.32d83d02.png",
     "static/media/regresar.c681a474.png": "/Komuya_proyecto/static/media/regresar.c681a474.png",
-    "static/media/stylesFrases.css": "/Komuya_proyecto/static/media/retosFondo.8c8338d7.png",
-    "static/media/salir.a9642ea0.svg": "/Komuya_proyecto/static/media/salir.a9642ea0.svg"
+    "static/media/salir.17e72c79.svg": "/Komuya_proyecto/static/media/salir.17e72c79.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.7cb8b5aa.js",
-    "static/js/2.d79c9876.chunk.js",
-    "static/css/main.f28e6fee.chunk.css",
-    "static/js/main.7bb9eac8.chunk.js"
+    "static/js/2.617a990f.chunk.js",
+    "static/css/main.519f8148.chunk.css",
+    "static/js/main.d8b0a29f.chunk.js"
   ]
 }
