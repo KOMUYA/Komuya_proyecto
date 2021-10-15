@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Komuya_proyecto/static/css/main.6f76bdb2.chunk.css",
+    "main.css": "/Komuya_proyecto/static/css/main.c8bb69ad.chunk.css",
     "main.js": "/Komuya_proyecto/static/js/main.77491dca.chunk.js",
     "main.js.map": "/Komuya_proyecto/static/js/main.77491dca.chunk.js.map",
     "runtime-main.js": "/Komuya_proyecto/static/js/runtime-main.7cb8b5aa.js",
@@ -8,7 +8,7 @@
     "static/js/2.a9af2caf.chunk.js": "/Komuya_proyecto/static/js/2.a9af2caf.chunk.js",
     "static/js/2.a9af2caf.chunk.js.map": "/Komuya_proyecto/static/js/2.a9af2caf.chunk.js.map",
     "index.html": "/Komuya_proyecto/index.html",
-    "static/css/main.6f76bdb2.chunk.css.map": "/Komuya_proyecto/static/css/main.6f76bdb2.chunk.css.map",
+    "static/css/main.c8bb69ad.chunk.css.map": "/Komuya_proyecto/static/css/main.c8bb69ad.chunk.css.map",
     "static/js/2.a9af2caf.chunk.js.LICENSE.txt": "/Komuya_proyecto/static/js/2.a9af2caf.chunk.js.LICENSE.txt",
     "static/media/stylesExit.css": "/Komuya_proyecto/static/media/FondoExit.1c7d79c9.png",
     "static/media/Jueves.caadbb7a.svg": "/Komuya_proyecto/static/media/Jueves.caadbb7a.svg",
@@ -31,7 +31,7 @@
   "entrypoints": [
     "static/js/runtime-main.7cb8b5aa.js",
     "static/js/2.a9af2caf.chunk.js",
-    "static/css/main.6f76bdb2.chunk.css",
+    "static/css/main.c8bb69ad.chunk.css",
     "static/js/main.77491dca.chunk.js"
   ]
 }
