@@ -11,24 +11,24 @@ function establecerClima() {
   let seleccionar = document.querySelector('select');
   let eleccion = seleccionar.value;
   if (eleccion === 'escribir') {
-    document.getElementById('resultadito').innerHTML='Tu habilidad es la intelectualidad. Posees gusto por la actividad intelectual. Profundizas. Excavaz y te gusta expresar lo que sientes de manera literaria.';
+    document.getElementById('resultaditoTwo').innerHTML='Tu habilidad es la intelectualidad. Posees gusto por la actividad intelectual. Profundizas. Excavaz y te gusta expresar lo que sientes de manera literaria.';
   } else if (eleccion === 'resolver') {
-    document.getElementById('resultadito').innerHTML='Tu habilidad es ser analítico/a y objetivo/a. Abordas la vida de manera racional, amas los hechos, quieres tener pruebas de que se avanza, eres una persona lógica y, a veces, algo distanciada de tus emociones.';
+    document.getElementById('resultaditoTwo').innerHTML='Tu habilidad es ser analítico/a y objetivo/a. Abordas la vida de manera racional, amas los hechos, quieres tener pruebas de que se avanza, eres una persona lógica y, a veces, algo distanciada de tus emociones.';
   } else if (eleccion === 'liderar') {
-    document.getElementById('resultadito').innerHTML='Tu habilidad es ser lider, asumes las situaciones a tu cargo. Ordenas, das directivas. La confrontación no es un problema. Por el contrario, es el comienzo de la resolución de un problema.';
+    document.getElementById('resultaditoTwo').innerHTML='Tu habilidad es ser lider, asumes las situaciones a tu cargo. Ordenas, das directivas. La confrontación no es un problema. Por el contrario, es el comienzo de la resolución de un problema.';
   } else if (eleccion === 'dibujar') {
-    document.getElementById('resultadito').innerHTML= 'Tu habilidad es la creatividad, juegas, manejas con destreza la generación de ideas. Baraja las ideas: qué pasaría si, y si después, y si. Abordas el mundo con nuevos ojos.';
+    document.getElementById('resultaditoTwo').innerHTML= 'Tu habilidad es la creatividad, juegas, manejas con destreza la generación de ideas. Baraja las ideas: qué pasaría si, y si después, y si. Abordas el mundo con nuevos ojos.';
   } else if (eleccion === 'deporte') {
-    document.getElementById('resultadito').innerHTML='Tu habilidad es la competición. Posees el talento de la persona que es consciente del nivel de competencia de los demás. Tu incentivo es ser el/la mejor. Necesitas a los demás para competir. Es la energía que necesita para motivarte.';
+    document.getElementById('resultaditoTwo').innerHTML='Tu habilidad es la competición. Posees el talento de la persona que es consciente del nivel de competencia de los demás. Tu incentivo es ser el/la mejor. Necesitas a los demás para competir. Es la energía que necesita para motivarte.';
   } else {
-    document.getElementById('resultadito').innerHTML= '';
+    document.getElementById('resultaditoTwo').innerHTML= '';
   }
 }
 
 console.log("respuesta", establecerClima)
 
     return (
-        <div className="container">
+        <div className="containerOne">
             <Encabezado/>
             <div className="title_persona_soy">
                     <p>¿Qué habilidades tienes?</p>
@@ -61,7 +61,7 @@ console.log("respuesta", establecerClima)
 
                     <div className="answer">
                         <div class="result">
-                        <h4 className="texting" id='resultadito'></h4>
+                        <h4 className="texting" id='resultaditoTwo'></h4>
                         </div>
                     </div>
                     <Link to="/Feli1">
@@ -69,7 +69,7 @@ console.log("respuesta", establecerClima)
                         <input className= "enviar" type="submit" value="Enviar"/>
                         </div>
                    </Link>
-                    </div>
+        </div>
     )
 }
 export default ChallengeOne

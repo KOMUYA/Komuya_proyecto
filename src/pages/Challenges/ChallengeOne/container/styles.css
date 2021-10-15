@@ -16,14 +16,23 @@
 }
 
 
-.container{
+.containerOne{
     width: 100%;
-    height: 100%;
+    height: 100% !important;
+    background-size: 100% 100%;
     background-color: #8BE9F0;
 }
 
+
+#resultaditoTwo{
+    font-size: 22px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-family:'Poppins', sans-serif ;
+}
+
 .texto{
-    margin-top: 25px;
+    margin-top: 50px;
 }
 
 .text {
@@ -52,7 +61,8 @@
 }
 
 .buttonTwoChallenge img{
-    margin-top: 25px;
+    margin-top: 35px;
+    margin-bottom: 25px;
     width: 40px;
 }
 
@@ -92,16 +102,13 @@
 .opciones{
     justify-content: center;
     margin-top: 58px;
-    /*display: grid;
-    grid-template-columns: repeat(2,1fr) !important;
-    grid-template-rows: 1fr;*/
 
 }
 
 .texting{
     padding-left: 30px;
     padding-right: 30px;
-    margin-top: 100px;
+    margin-top: 80px;
     font-size: 20px;
     text-align: center;
     font-family:'Poppins', sans-serif ;
@@ -118,7 +125,7 @@ justify-content: center;
 justify-content: center;
 margin: 20px 160px 55px 160px;
 border-radius: 10px;
-height:250px;
+height:350px;
 width: 700px;
 background: rgb(196,196,196);
 border: 4px solid #5A95CE;

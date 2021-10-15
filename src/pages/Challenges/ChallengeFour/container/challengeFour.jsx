@@ -6,24 +6,33 @@ import Modal1 from '../container/modals/ModalOne'
 import Modal2 from '../container/modals/ModalTwo'
 import Modal3 from '../container/modals/ModalThree'
 import Modal4 from '../container/modals/ModalFour'
+import {Link} from "react-router-dom"
 
 const ChallengeFour= () => {
     return (
         <div className="container">
              <Encabezado/>
-        <div className="titleFour">
-        <h1>El reto del día de hoy es conocerte. ¿Qué harías en esta situación?<i class="fa fa-check" aria-hidden="true"></i> </h1>
+        <div className="title_conocerme">
+             <p>Aprendiendo a conocer mis emociones.</p>
+        </div>
+        <div className="text_conocerme">
+            <p>El reto del día de hoy reconocer el manejo de tus emociones. ¿Qué harías en esta situación?</p>
         </div>
         <div className="imageFour">
             <img src={ImagenFour} alt="" />
         </div>
-        <h1 className="subtitule"> Selecciona un número de acuerdo a la imagén. </h1>
+        <p className="subtitule"> Selecciona un número de acuerdo a la imagén. </p>
         <div className="options">
            <Modal1/>
            <Modal2/>
            <Modal3/>
            <Modal4/>
         </div>
+        <Link to="/Feli1">
+                    <div className="boton">
+                     <input className= "enviar" type="submit" value="Enviar"/>
+                     </div>
+        </Link>
        </div>
     )
 }
