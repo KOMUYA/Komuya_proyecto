@@ -8,10 +8,15 @@ body,html{
 }
 
 .containerFel{
+  padding-top: 10%;
     display: flex;
     justify-content: center;
     background-size: cover;
     height: 100vh;
+}
+
+.enviar{
+  border-radius: 5px !important;
 }
 
 .enviado{
@@ -114,6 +119,7 @@ body,html{
     }
 
     .enviado{
+      font-size: 24px !important;
       margin-right: 0px;
       margin-left: 45px;
       margin-top: 3px;
