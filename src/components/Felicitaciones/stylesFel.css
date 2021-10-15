@@ -102,6 +102,10 @@ body,html{
 
   @media only screen and (max-width: 420px){
 
+    .enviarYes{
+      font-size: 18px !important;
+    }
+
     .containerFel{
       background-size: cover;
       background-repeat: no-repeat;
